@@ -1,4 +1,5 @@
 # KnowK
+<기술설명>
 <img width="1139" alt="스크린샷 2023-05-27 오후 6 48 39" src="https://github.com/nbbb9/KnowK/assets/113917104/380efa79-a260-4848-b3d1-1adad7172d90">
 <img width="1137" alt="스크린샷 2023-05-27 오후 6 48 48" src="https://github.com/nbbb9/KnowK/assets/113917104/2eb297ef-bacf-43b1-a795-11b6dacd3b28">
 <img width="1136" alt="스크린샷 2023-05-27 오후 6 48 56" src="https://github.com/nbbb9/KnowK/assets/113917104/c22eedd5-e89f-4047-a419-62c175595737">
