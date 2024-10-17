@@ -17,5 +17,3 @@ KonwK.ino = 적외선센서, 압력센서 자외선 센서 등 다양한 센서�
 ![KakaoTalk_Photo_2022-07-29-17-25-36 007](https://github.com/nbbb9/KnowK/assets/113917104/bc9b20b8-30a9-4cfc-b191-c9cc70eeb98a)
 ![KakaoTalk_Photo_2022-07-29-16-13-34 006](https://github.com/nbbb9/KnowK/assets/113917104/5542b4e6-6ca8-4e70-aa5b-cf7e754975ba)
 <img width="1350" alt="가정집 구조(치수포함)" src="https://github.com/nbbb9/KnowK/assets/113917104/6ca466c1-7416-42dd-a5cf-b07814575c55">
-![IMG_6068](https://github.com/nbbb9/KnowK/assets/113917104/9610dd5c-b1f9-4960-8dbb-0aaacc99041e)
-![IMG_6066](https://github.com/nbbb9/KnowK/assets/113917104/04a9f38c-604d-4fbb-b4aa-6f17a0c7a1a7)
